@@ -1,0 +1,18 @@
+/*
+60 of #E11E5C
+30 of #8CBFAF
+10 of #52A6BF
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #E11E5C;
+
+    /* var(--secondaryColor) */
+    --secondaryColor: #8CBFAF;
+
+    /* var(--accentColor) */
+    --accentColor: #52A6BF;
+
+}
